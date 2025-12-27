@@ -1,7 +1,6 @@
 body{
     background-color: green;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: url("img/fönster.webp");
 }
 h1{
     text-align: center;
@@ -34,6 +33,6 @@ section{
 .art-img{
     height: 30vh;
 }
-.sve{
+.eng{
     display: none;
 }

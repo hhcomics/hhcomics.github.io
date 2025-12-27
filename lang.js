@@ -16,4 +16,4 @@ function sve(){
     state("sve","block");
 }
 //kör engelska per default
-window.onload=eng;
+window.onload=sve;
