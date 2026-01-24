@@ -31,3 +31,7 @@ body{
 .skepna-img{
     height: 35vh;
 }
+.video{
+    height: 45vmax;
+    width: 75vmin;
+}
